@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaihui Gao (高凯辉)"
-  avatar           : "profile.png"
+  avatar           : "profile.JPEG"
   bio              : "PhD Student in Tsinghua University"
   location         : "Beijing"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gaokaihui/"
+  github           : "gaokaihui"
   google_plus      :
   keybase          :
   instagram        :
