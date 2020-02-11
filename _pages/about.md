@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Kaihui Gao's Homapage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello, I am Kaihui, a second-year PhD student in Department of Computer Science and Technology, Tsinghua University. I have broad interest in networking and systems, including **intelligent network**, **network visualization in data center**, etc. Currently, I am focusing on using machine learning algorithms to improve network performance. This is the home page of my [lab](https://nasp.cs.tsinghua.edu.cn/).
+Hello, I am Kaihui, a second-year PhD student in Department of Computer Science and Technology, Tsinghua University. I have broad interest in networking and systems, including **intelligent network**, **network visualization in data center**, etc. Currently, I am focusing on using machine learning algorithms to improve network performance. This is the homepage of my [lab](https://nasp.cs.tsinghua.edu.cn/).
 
 
 Recent publication
