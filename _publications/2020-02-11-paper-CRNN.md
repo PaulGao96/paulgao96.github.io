@@ -1,7 +1,7 @@
 ---
 title: "CRNN for TM prediction"
 collection: publications
-permalink: /
+permalink: /publication/2020-02-11-paper-CRNN
 date: 2020-02-11
 venue: 'INFOCOM WNA'
 ---
