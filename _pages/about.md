@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Kaihui, a second-year PhD student in Department of Computer Science and Technology, Tsinghua University. I have broad interest in networking and systems, including intelligent network, artificial intelligence, data center network, network visualization, etc. Currently, I am focusing on using machine learning algorithms to improve network performance. This is the home page of my [lab](https://nasp.cs.tsinghua.edu.cn/).
+Hello, I am Kaihui, a second-year PhD student in Department of Computer Science and Technology, Tsinghua University. I have broad interest in networking and systems, including **intelligent network**, **network visualization in data center**, etc. Currently, I am focusing on using machine learning algorithms to improve network performance. This is the home page of my [lab](https://nasp.cs.tsinghua.edu.cn/).
 
 
 Recent publication
