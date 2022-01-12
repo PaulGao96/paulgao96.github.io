@@ -18,6 +18,6 @@ Recent publication
 Yue Gu, [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html), **Kaihui Gao**, Yang Cheng. Fast and Robust Online Traffic Classification Supporting Unseen Aplications ([Paper](https://cloud.tsinghua.edu.cn/f/c60de4e2f3ad40f2aa4d/))
 [Globecom'2021](https://globecom2021.ieee-globecom.org/) (CCF C, TH-CPL B)
 
-**Kaihui Gao**, [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html), Li Chen, [Jinkun Geng](gengjinkun.com), Fei Gui, [Yang Cheng](https://chengyang.info/), Yue Gu. Incorporating Intra-flow Dependencies and Inter-flow Correlations for Traffic Matrix Prediction ([Paper](https://cloud.tsinghua.edu.cn/f/9e6c30925cea4f418092/) [Slides](https://cloud.tsinghua.edu.cn/f/9c7034bd84a94b1c8048/))
+**Kaihui Gao**, [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html), Li Chen, [Jinkun Geng](https://www.gengjinkun.com/), Fei Gui, [Yang Cheng](https://chengyang.info/), Yue Gu. Incorporating Intra-flow Dependencies and Inter-flow Correlations for Traffic Matrix Prediction ([Paper](https://cloud.tsinghua.edu.cn/f/9e6c30925cea4f418092/) [Slides](https://cloud.tsinghua.edu.cn/f/9c7034bd84a94b1c8048/))
 [IWQoS'2020](https://iwqos2020.ieee-iwqos.org/) (CCF B, TH-CPL B)
 
