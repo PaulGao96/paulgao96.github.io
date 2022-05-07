@@ -12,12 +12,9 @@ Hello, I am Kaihui, a fourth-year PhD student in Department of Computer Science 
 
 Recent publication
 ======
+Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Ennan Zhai, Chen Sun, Jiaqi Gao, Dai Zhang, Binzhang Fu, Frank Kelly, Dennis Cai, Hongqiang Harry Liu, Ming Zhang. Predictable vFabric on Informative Data Plane. (\* indicates the co-first authorship) [SIGCOMM'2022](https://conferences.sigcomm.org/sigcomm/2022/) (CCF A, TH-CPL A)
+
 **Kaihui Gao**, Chen Sun, Shuai Wang, Dan Li, Yu Zhou, Hongqiang Harry Liu, Lingjun Zhu, Ming Zhang. Buffer-based End-to-end Request Event Monitoring in the Cloud. ([Paper](https://www.usenix.org/system/files/nsdi22-paper-gao_kaihui.pdf), [Slides](https://cloud.tsinghua.edu.cn/f/a6fc57bfe4904b6292e6/), [Video](https://cloud.tsinghua.edu.cn/f/582e36e66b2546f2a2aa/))
 [NSDI'2022](https://www.usenix.org/conference/nsdi22) (CCF A, TH-CPL A)
 
-Yue Gu, Dan Li, **Kaihui Gao**, Yang Cheng. Fast and Robust Online Traffic Classification Supporting Unseen Applications. ([Paper](https://cloud.tsinghua.edu.cn/f/c60de4e2f3ad40f2aa4d/))
-[Globecom'2021](https://globecom2021.ieee-globecom.org/) (CCF C, TH-CPL B)
-
-**Kaihui Gao**, Dan Li, Li Chen, Jinkun Geng, Fei Gui, Yang Cheng, Yue Gu. Incorporating Intra-flow Dependencies and Inter-flow Correlations for Traffic Matrix Prediction. ([Paper](https://cloud.tsinghua.edu.cn/f/9e6c30925cea4f418092/), [Slides](https://cloud.tsinghua.edu.cn/f/9c7034bd84a94b1c8048/))
-[IWQoS'2020](https://iwqos2020.ieee-iwqos.org/) (CCF B, TH-CPL B)
-
+**Kaihui Gao**, Dan Li, Shuai Wang. Bandwidth-efficient Microburst Measurement in Large-scale Datacenter Networks. [APNet'2022](https://conferences.sigcomm.org/events/apnet2022/index.html)
