@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Kaihui, a fourth-year PhD student in Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). Meanwhile, I am working as an academic intern in Alibaba Group's network research team. I have broad interest in networking and systems, including **programmable network**, **intelligent network**, etc. Currently, I am focusing on using programmable dataplane to diagnose and improve the performance of DCN.
+Hello, I am Kaihui, a fifth-year PhD candidate in Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). Meanwhile, I am working as an academic intern in Alibaba Group's network research team. I have broad interest in networking and systems, including **programmable network**, **intelligent network**, etc. Currently, I am focusing on using programmable dataplane to diagnose and improve the performance of DCN.
+
+<font color='red'>
+I'm on the job market this year!
+Please contact me if there are any research opportunities from industry or academia. 
+</font>
 
 
 Recent publication
