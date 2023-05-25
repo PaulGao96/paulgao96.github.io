@@ -1,7 +1,7 @@
 ---
-title: "uFab"
+title: "vFab"
 collection: publications
-permalink: /publication/paper-uFab
+permalink: /publication/paper-vFab
 date: 2022-08-22
 venue: 'SIGCOMM'
 ---
