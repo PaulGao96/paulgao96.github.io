@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Kaihui, a fifth-year PhD candidate in Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I have broad interest in networking and systems, including **programmable network**, **intelligent network**, etc. Currently, I am focusing on using programmable dataplane to improve and guarantee the performance of DCN.
+I am currently an Assistant Researcher at Zhongguancun Laboratory.
+I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
+I have broad interest in networking and systems, including **programmable network**, **intelligent network**, **Digital Twin Network**, etc. Currently, I am focusing on using programmable dataplane to improve and guarantee the performance of DCN.
 
 
 Recent publications
@@ -18,3 +20,7 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 **Kaihui Gao**, Chen Sun, Shuai Wang, Dan Li, Yu Zhou, Hongqiang Harry Liu, Lingjun Zhu, Ming Zhang. Buffer-based End-to-end Request Event Monitoring in the Cloud. ([Paper](https://www.usenix.org/system/files/nsdi22-paper-gao_kaihui.pdf), [Slides](https://cloud.tsinghua.edu.cn/f/a6fc57bfe4904b6292e6/), [Video](https://cloud.tsinghua.edu.cn/f/582e36e66b2546f2a2aa/))
 [NSDI'2022](https://www.usenix.org/conference/nsdi22) (CCF A, TH-CPL A)
+
+**Honors & Awards**
+-06/2023 Outstanding Doctoral Dissertation, Tsinghua University
+-11/2022 HUAWEI Scholarship, Tsinghua University
