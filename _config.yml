@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaihui Gao (高凯辉)"
   avatar           : "profile.JPEG"
-  bio              : "PhD Student in Tsinghua University"
+  bio              : "Assistant Researcher in Zhongguancun Laboratory"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=GofFAegAAAAJ"
-  email            : "gkh18@mails.tsinghua.edu.cn"
+  email            : "kaihuigao@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
