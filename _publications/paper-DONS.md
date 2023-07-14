@@ -1,5 +1,5 @@
 ---
-title: "DONS"
+title: "DONS: Data-Oriented Network Simulator"
 collection: publications
 permalink: /publication/paper-DONS
 date: 2023-09-10
