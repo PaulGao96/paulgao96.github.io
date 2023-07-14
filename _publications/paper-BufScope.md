@@ -1,5 +1,5 @@
 ---
-title: "BufScope"
+title: "BufScope: Cloud-level Performance Monitor"
 collection: publications
 permalink: /publication/paper-BufScope
 date: 2022-04-15
