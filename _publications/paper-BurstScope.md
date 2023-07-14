@@ -1,5 +1,5 @@
 ---
-title: "BurstScope"
+title: "BurstScope: Microburst Measurement"
 collection: publications
 permalink: /publication/paper-BurstScope
 date: 2022-07-02
