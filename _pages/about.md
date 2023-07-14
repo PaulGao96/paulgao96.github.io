@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am currently an Assistant Researcher at Zhongguancun Laboratory.
 I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
-I have broad interest in networking and systems, including **programmable network**, **intelligent network**, **Digital Twin Network**, etc. Currently, I am focusing on using programmable dataplane to improve and guarantee the performance of DCN.
+I have broad interest in networking and systems, including **programmable network**, **Digital Twin Network**, **intelligent network**, etc. Currently, I am focusing on constructing digital twins of networks, including the Internet, involves network simulation and emulation.
+
 
 
 Recent publications
