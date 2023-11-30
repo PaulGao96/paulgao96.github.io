@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Researcher at Zhongguancun Laboratory.
+I am currently an Assistant Researcher at ZGC Lab.
 I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
-I have broad interest in networking and systems, including **programmable network**, **Digital Twin Network**, **intelligent network**, etc. Currently, I am focusing on constructing digital twins of networks, including the Internet, involves network simulation and emulation.
+I have broad interest in networking and systems, including **Digital Twin Network**, **Programmable Network**, **Intelligent Network**, etc. Currently, I am focusing on constructing digital twins of networks, including the Internet, involves network simulation and emulation.
 
 
 
