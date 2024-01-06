@@ -26,7 +26,7 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Honors & Awards
 ======
--12/2023 Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF
+-12/2023 [Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF](https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml)
 
 -09/2023 Student Travel Grant, SIGCOMM
 
