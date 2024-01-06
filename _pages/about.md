@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Researcher at ZGC Lab.
+I am currently an Assistant Researcher at ZGC Lab.  
 I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
 I have broad interest in networking and systems, including **Digital Twin Network**, **Programmable Network**, **Intelligent Network**, etc. Currently, I am focusing on constructing digital twins of networks, including the Internet, involves network simulation and emulation.
 
@@ -26,6 +26,10 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Honors & Awards
 ======
+-12/2023 Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF
+
+-09/2023 Student Travel Grant, SIGCOMM
+
 -06/2023 Outstanding Doctoral Dissertation, Tsinghua University
 
 -03/2023 Innovative Future Scholarship, Tsinghua University
