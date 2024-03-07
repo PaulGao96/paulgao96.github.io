@@ -26,7 +26,7 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Honors & Awards
 ======
--12/2023 [Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF](https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml)
+-12/2023 [Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF](https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml) (中国计算机学会)
 
 -09/2023 Student Travel Grant, SIGCOMM
 
@@ -36,6 +36,3 @@ Honors & Awards
 
 -11/2022 HUAWEI Scholarship, Tsinghua University
 
-Talks
-======
--09/2023 CCF ChinaNet 2023, "DONS：面向数据设计的网络离散事件仿真引擎", [slides](https://github.com/PaulGao96/paulgao96.github.io/blob/master/files/DONS%E5%AE%A3%E8%AE%B2-CCF%20ChinaNet%20%E6%B8%A9%E5%B7%9E-%E9%AB%98%E5%87%AF%E8%BE%89.pdf).
