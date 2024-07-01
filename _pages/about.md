@@ -29,7 +29,7 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Services
 ======
-Program committee, USENIX NSDI 2025
+TPC member, USENIX NSDI 2025
 
 
 Honors & Awards
