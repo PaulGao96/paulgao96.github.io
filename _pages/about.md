@@ -30,7 +30,7 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 Services
 ======
 TPC member, USENIX NSDI 2025
-
+Artifacts Evaluation Committee Member, SIGCOMM 2024
 
 Honors & Awards
 ======
