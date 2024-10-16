@@ -30,6 +30,9 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 Services
 ======
 TPC member, USENIX NSDI 2025
+
+TPC member, APNet 2025
+
 Artifacts Evaluation Committee Member, SIGCOMM 2024
 
 Honors & Awards
@@ -43,4 +46,8 @@ Honors & Awards
 
 Talks
 ======
+-09/2024 CCF 中国数字服务大会, "面向数据设计的大规模网络仿真", [slides](https://github.com/PaulGao96/paulgao96.github.io/blob/master/files/DONS%E5%AE%A3%E8%AE%B2-CCF%20ChinaNet%20%E6%B8%A9%E5%B7%9E-%E9%AB%98%E5%87%AF%E8%BE%89.pdf).
+
+-08/2024 ACM SIGCOMM’24, "面向数据设计的大规模网络仿真", [slides](https://github.com/PaulGao96/paulgao96.github.io/blob/master/files/DONS%E5%AE%A3%E8%AE%B2-CCF%20ChinaNet%20%E6%B8%A9%E5%B7%9E-%E9%AB%98%E5%87%AF%E8%BE%89.pdf).
+
 -09/2023 CCF ChinaNet 2023, "DONS：面向数据设计的网络离散事件仿真引擎", [slides](https://github.com/PaulGao96/paulgao96.github.io/blob/master/files/DONS%E5%AE%A3%E8%AE%B2-CCF%20ChinaNet%20%E6%B8%A9%E5%B7%9E-%E9%AB%98%E5%87%AF%E8%BE%89.pdf).
