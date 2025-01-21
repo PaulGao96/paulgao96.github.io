@@ -13,8 +13,11 @@ I have broad interest in networking and systems, including **Digital Twin Networ
 
 
 
-Recent publications
+Selected publications
 ======
+Fei Gui, **Kaihui Gao***, Li Chen, Dan Li, Vincent Liu, et al. Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation. [USENIX NSDI'2025](https://www.usenix.org/conference/nsdi25) (CCF A, TH-CPL A) (*corresponding author).
+
+
 Fei Gui, Songtao Wang, Dan Li, Li Chen, **Kaihui Gao**, Congcong Min, Yi Wang. RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering. [ACM SIGCOMM'2024](https://conferences.sigcomm.org/sigcomm/2024/) (CCF A, TH-CPL A).
 
 
@@ -29,6 +32,8 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Services
 ======
+Poster Co-chair, APNet 2025
+
 TPC member, USENIX NSDI 2025
 
 TPC member, APNet 2025
