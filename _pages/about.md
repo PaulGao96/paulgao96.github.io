@@ -9,13 +9,13 @@ redirect_from:
 ---
 I am currently an Assistant Researcher at Zhongguancun Laboratory, collaborating closely with [Dr. Li Chen](https://drchen.li/) and [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).
 I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
-I have broad interest in networking and systems, including **Digital Twin Networks**, **LLM training Optimization**, **Intelligent Networks**, etc.
+I have broad interest in networking and systems, including **Digital Twin Networks**, **LLM System**, **Intelligent Networks**, etc.
 
 
 
 Selected publications
 ======
-Fei Gui, **Kaihui Gao***, Li Chen, Dan Li, Vincent Liu, et al. Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation. [USENIX NSDI'2025](https://www.usenix.org/conference/nsdi25/presentation/gui) (CCF A) **(*corresponding author)**. Open sourced: [Multiverse's GitHub](https://github.com/NASP-THU/multiverse).
+Fei Gui, **Kaihui Gao***, Li Chen*, Dan Li, Vincent Liu, et al. Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation. [USENIX NSDI'2025](https://www.usenix.org/conference/nsdi25/presentation/gui) (CCF A) **(*corresponding author)**. Open sourced: [Multiverse's GitHub](https://github.com/NASP-THU/multiverse).
 
 
 Fei Gui, Songtao Wang, Dan Li, Li Chen, **Kaihui Gao**, Congcong Min, Yi Wang. RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering. [ACM SIGCOMM'2024](https://conferences.sigcomm.org/sigcomm/2024/) (CCF A).
@@ -32,13 +32,13 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Services
 ======
-Poster Co-chair, APNet 2025
+Poster Co-chair: APNet 2025
 
-TPC member, USENIX NSDI 2025
+Artifacts Evaluation PC: OSDI'25, CoNEXT'25, ATC'25
 
-TPC member, APNet 2025
+TPC member: USENIX NSDI 2025, APNet 2025
 
-Artifacts Evaluation Committee Member, SIGCOMM 2024
+Artifacts Evaluation PC: SIGCOMM 2024
 
 
 Honors & Awards
