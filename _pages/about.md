@@ -34,11 +34,13 @@ Services
 ======
 Poster Co-chair: APNet 2025
 
-Artifacts Evaluation PC: OSDI'25, CoNEXT'25, ATC'25
+Session Chair: NSDI 2025 *All Things Transport*
+
+Artifacts Evaluation TPC: OSDI'25, CoNEXT'25, ATC'25
 
 TPC member: USENIX NSDI 2025, APNet 2025
 
-Artifacts Evaluation PC: SIGCOMM 2024
+Artifacts Evaluation TPC: SIGCOMM 2024
 
 
 Honors & Awards
