@@ -15,6 +15,12 @@ I have broad interest in networking and systems, including **Digital Twin Networ
 
 Selected publications
 ======
+Tianfeng Liu, **Kaihui Gao**, Li Chen, Dan Li, Jin Guang, Xinyun Chen, Vincent Liu, et al. CCEval: Accurately and Confidently Estimating Performance Metrics of Congestion Control Algorithms for Datacenter Networks. USENIX NSDI 2026, Renton, WA, USA.
+
+
+Zihan Yan, Dan Li, Li Chen, Dian Xiong, **Kaihui Gao**, Yiwei Zhang, Rui Yan, Menglei Zhang, Bochun Zhang, Zhuo Jiang, Jianxi Ye and Haibin Lin. From ATOP to ZCube: Automated Topology Optimization Pipeline and A Highly Cost-Effective Network Topology for Large Model Training. [ACM SIGCOMM'2025](https://conferences.sigcomm.org/sigcomm/2025/) (CCF A).
+
+
 Fei Gui, **Kaihui Gao**\*, Li Chen\*, Dan Li, Vincent Liu, et al. Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation. [USENIX NSDI'2025](https://www.usenix.org/conference/nsdi25/presentation/gui) (CCF A) **(\*corresponding author)**. Open sourced: [Multiverse's GitHub](https://github.com/NASP-THU/multiverse).
 
 
@@ -26,19 +32,22 @@ Fei Gui, Songtao Wang, Dan Li, Li Chen, **Kaihui Gao**, Congcong Min, Yi Wang. R
 
 Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Ennan Zhai, Chen Sun, Jiaqi Gao, Dai Zhang, Binzhang Fu, Frank Kelly, Dennis Cai, Hongqiang Harry Liu, Ming Zhang. Predictable vFabric on Informative Data Plane. (\* indicates the co-first authorship) [ACM SIGCOMM'2022](https://conferences.sigcomm.org/sigcomm/2022/) (CCF A).
 
+
 **Kaihui Gao**, Chen Sun, Shuai Wang, Dan Li, Yu Zhou, Hongqiang Harry Liu, Lingjun Zhu, Ming Zhang. Buffer-based End-to-end Request Event Monitoring in the Cloud. ([Paper](https://www.usenix.org/system/files/nsdi22-paper-gao_kaihui.pdf), [Slides](https://cloud.tsinghua.edu.cn/f/a6fc57bfe4904b6292e6/), [Video](https://cloud.tsinghua.edu.cn/f/582e36e66b2546f2a2aa/))
 [USENIX NSDI'2022](https://www.usenix.org/conference/nsdi22) (CCF A).
 
 
 Services
 ======
+Artifacts Evaluation TPC: NSDI'26
+
 Poster Co-chair: APNet 2025
 
 Session Chair: NSDI 2025 *All Things Transport*
 
-Artifacts Evaluation TPC: OSDI'25, CoNEXT'25, ATC'25
-
 TPC member: USENIX NSDI 2025, APNet 2025
+
+Artifacts Evaluation TPC: OSDI'25, CoNEXT'25, ATC'25
 
 Artifacts Evaluation TPC: SIGCOMM 2024
 
