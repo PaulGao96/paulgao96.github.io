@@ -9,13 +9,13 @@ redirect_from:
 ---
 I am currently an Assistant Researcher at Zhongguancun Laboratory, collaborating closely with [Dr. Li Chen](https://drchen.li/) and [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).
 I received my Ph.D. in Department of Computer Science and Technology, Tsinghua University, in 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
-I have broad interest in networking and systems, including **Digital Twin Networks**, **LLM System**, **Intelligent Networks**, etc.
+I have broad interest in networking and systems, including **Data Center Networking**, **LLM System**, **Intelligent Networks**, etc.
 
 
 
 Selected publications
 ======
-Tianfeng Liu, **Kaihui Gao**, Li Chen, Dan Li, Jin Guang, Xinyun Chen, Vincent Liu, et al. CCEval: Accurately and Confidently Estimating Performance Metrics of Congestion Control Algorithms for Datacenter Networks. USENIX NSDI 2026 (CCF A).
+Tianfeng Liu, **Kaihui Gao**\*, Li Chen\*, Dan Li, Jin Guang, Xinyun Chen, Vincent Liu, et al. CCEval: Accurately and Confidently Estimating Performance Metrics of Congestion Control Algorithms for Datacenter Networks. USENIX NSDI 2026 (CCF A) **(\*corresponding author)**.
 
 
 Zihan Yan, Dan Li, Li Chen, Dian Xiong, **Kaihui Gao**, Yiwei Zhang, Rui Yan, Menglei Zhang, Bochun Zhang, Zhuo Jiang, Jianxi Ye and Haibin Lin. From ATOP to ZCube: Automated Topology Optimization Pipeline and A Highly Cost-Effective Network Topology for Large Model Training. [ACM SIGCOMM'2025](https://conferences.sigcomm.org/sigcomm/2025/) (CCF A).
@@ -39,21 +39,21 @@ Shuai Wang\*, **Kaihui Gao**\*, Kun Qian, Dan Li, Rui Miao, Bo Li, Yu Zhou, Enna
 
 Services
 ======
-Artifacts Evaluation TPC: NSDI'26
-
 Poster Co-chair: APNet 2025
 
 Session Chair: NSDI 2025 *All Things Transport*
 
-TPC member: USENIX NSDI 2025, APNet 2025
+TPC member: EuroSys'26, USENIX NSDI 2025, APNet 2025
 
-Artifacts Evaluation TPC: OSDI'25, CoNEXT'25, ATC'25
+Artifacts Evaluation TPC: NSDI'26, OSDI'25, CoNEXT'25, ATC'25
 
 Artifacts Evaluation TPC: SIGCOMM 2024
 
 
 Honors & Awards
 ======
+-09/2025 北京市海英人才
+
 -12/2023 [Outstanding Doctoral Dissertation Incentive Program (Nomination), CCF](https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml) (中国计算机学会)
 
 -09/2023 Student Travel Grant, SIGCOMM
