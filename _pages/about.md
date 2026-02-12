@@ -15,6 +15,9 @@ I have broad interest in networking and systems, including **Data Center Network
 
 Selected publications
 ======
+Fei Long, **Kaihui Gao**\*, Li Chen\*, Dan Li, Yiwei Zhang, Fei Gui, Yitao Xing, Wenjia Wei, Bingyang Liu. Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding. **USENIX NSDI 2026** (CCF A) **(\*corresponding author)**.
+
+
 Tianfeng Liu, **Kaihui Gao**\*, Li Chen\*, Dan Li, Jin Guang, Xinyun Chen, Vincent Liu, et al. CCEval: Accurately and Confidently Estimating Performance Metrics of Congestion Control Algorithms for Datacenter Networks. **USENIX NSDI 2026** (CCF A) **(\*corresponding author)**.
 
 
