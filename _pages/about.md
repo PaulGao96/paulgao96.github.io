@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently an Assistant Researcher at Zhongguancun Laboratory, collaborating closely with [Dr. Li Chen](https://drchen.li/) and [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).
 I received my Ph.D. from Tsinghua University, at 2023, under the supervision of [Prof. Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html).  
-I have broad interest in networking and systems, including **Data Center Networking**, **LLM System**, **Intelligent Networks**, etc.
+I have broad interest in networking and systems, including **Data Center Networking**, **AI infra**, **Network Simulation**, etc.
 
 
 
