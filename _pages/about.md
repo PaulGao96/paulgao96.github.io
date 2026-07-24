@@ -18,6 +18,9 @@ Selected publications
 Zhiyuan Wu, Shuai Wang, Li Chen, **Kaihui Gao**\*, Dan Li, Yanyu Ren, Qiming Zhang, Yong Wang. Communication-Efficient Distributed Inference for Video Diffusion Models with Latent Parallelism. **USENIX NSDI 2027** (CCF A). 
 
 
+Yu Fu, Kaichi Li, **Kaihui Gao**\*, Li Chen\*, Dan Li, Guo Chen. Same Code ≠ Same Speed: Exposing and Mitigating Cacheline Contention Asymmetry on Multicore Processors. **IEEE/ACM MICRO 2026** (CCF A) **(\*corresponding author)**.
+
+
 Zhiyong Chen, **Kaihui Gao**\*, Li Chen\*, Rui Yan, Zihan Yan, Fei Gui, Dan Li, Jiamin Cao, Jiaqi Gao. PReCCL: Performant and Resilient Collective Communication via Integrated Inband Telemetry and Workload Reallocation. **ACM SIGCOMM 2026** (CCF A) **(\*corresponding author)**.
 
 
